@@ -1,7 +1,7 @@
 # EXPERIMENT-9
 
 ## Aim -
-
+To study and implement pointers basics in c++
 
 ## Theory -
 *pointer* is a variable that holds the memory address of another variable.<br>
