@@ -4,7 +4,7 @@
 To study and implement pointers basics in c++
 
 ## Theory -
-*pointer* is a variable that holds the memory address of another variable.<br>
+Pointer is a variable that holds the memory address of another variable.<br>
 Pointers are crucial for dynamic memory management, working with arrays, and efficient handling of large data structures.
 
 ### 1. *Declaring a Pointer*
