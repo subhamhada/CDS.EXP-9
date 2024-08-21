@@ -136,3 +136,4 @@ int main()
 
 ## Output -
 ### 1.
+![Screenshot 2024-08-21 093819](https://github.com/user-attachments/assets/b26bf404-f322-4e23-b20f-b8922775ff01)
